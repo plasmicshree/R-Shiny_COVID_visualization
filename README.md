@@ -5,6 +5,13 @@ Used R shiny to create interactive visualization of COVID data
 I used the COVID data from year 2020 to analyze the spread of COVID around the globe using interactive charts, plots and maps. </br>
  <a href="https://dsba-apps.shinyapps.io/FinalProject/"> Click here to view the dashboard online </a>
 
+<h2> How to run this app? </h2>
+<li> Make sure you have R installed in your machine.</li>
+<li> Download the zip folder by clicking on "Code" located on top right.  </li>
+<li> Unzip the folder. </li>
+<li> Double click on "app.R" to launch the App. </li>
+
+
 <h2> Data Sources: </h2>
 <li>  https://covidtracking.com/data/download </li>
 <li> https://raw.githubusercontent.com/albertyw/avenews/master/old/data/average-latitude-longitude-countries.csv </li>
