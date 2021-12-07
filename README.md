@@ -3,7 +3,7 @@ Used R shiny to create interactive visualization of COVID data
 
 <h2> COVID during 2020</h2>
 I used the COVID data from year 2020 to analyze the spread of COVID around the globe using interactive charts, plots and maps. </br>
- <a href="https://dsba-apps.shinyapps.io/FinalProject/"> Click here to launch the app online </a>
+ <a href="https://dsba-apps.shinyapps.io/R-Shiny_COVID_visualization-main/"> Click here to launch the app online </a>
 
 <h2> How to run this app? </h2>
 <ol>
